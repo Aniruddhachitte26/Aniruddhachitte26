@@ -6,8 +6,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniruddhachitte&show_icons=true&theme=radical) <!-- Replace with your username -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddhachitte&layout=compact&theme=radical) <!-- Replace with your username -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniruddhachitte26&show_icons=true&theme=radical) <!-- Replace with your username -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddhachitte26&layout=compact&theme=radical) <!-- Replace with your username -->
 
 
 
