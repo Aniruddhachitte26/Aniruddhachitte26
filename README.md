@@ -7,7 +7,6 @@
 ## 📊 GitHub Stats
 
 ![Aniruddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aniruddhachitte26&show_icons=true&count_private=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddhachitte26&layout=compact&theme=radical)
 
 
