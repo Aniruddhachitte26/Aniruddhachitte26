@@ -19,11 +19,13 @@ Software Engineer passionate about building scalable applications and leveraging
   <img src="https://raw.githubusercontent.com/aniruddhachitte26/aniruddhachitte26/main/contribution-graph.svg" alt="GitHub Contribution Distribution" width="400"/>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddhachitte26&theme=radical&show_icons=true&locale=en&layout=compact" alt="aniruddhachitte26" /></p>
+## 📈 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniruddhachitte26&theme=radical&show_icons=true&locale=en" alt="aniruddhachitte26" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddhachitte26&show_icons=true&locale=en&layout=compact" alt="aniruddhachitte26" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddhachitte26&theme=radical&" alt="aniruddhachitte26" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniruddhachitte26&show_icons=true&locale=en" alt="aniruddhachitte26" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddhachitte26" alt="aniruddhachitte26" /></p>
 
 ## 🤝 Connect with me
 
