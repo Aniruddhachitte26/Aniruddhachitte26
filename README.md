@@ -13,12 +13,6 @@ Software Engineer passionate about building scalable applications and leveraging
 - 💬 Ask me about **Backend Development**, **ML/AI**, and **System Design**
 - 📫 How to reach me: aniruddhachitte2001@gmail.com | (857) 544-6944
 
-## 📊 GitHub Activity Overview
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aniruddhachitte26/aniruddhachitte26/main/contribution-graph.svg" alt="GitHub Contribution Distribution" width="400"/>
-</div>
-
 ## 📈 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddhachitte26&show_icons=true&locale=en&layout=compact" alt="aniruddhachitte26" /></p>
