@@ -7,7 +7,7 @@ Software Engineer passionate about building scalable applications and leveraging
 - 🌱 I'm currently exploring **Microservices Architecture** and **Cloud-Native Development**
 - 🔭 Working on advanced **Machine Learning** projects with focus on healthcare applications
 - 💬 Ask me about **Backend Development**, **ML/AI**, and **System Design**
-- 📫 How to reach me: aniruddhachitte2001@gmail.com | (857) 544-6944
+- 📫 How to reach me: aniruddhachitte2001@gmail.com |
 ## 📈 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddhachitte26&show_icons=true&locale=en&layout=compact" alt="aniruddhachitte26" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniruddhachitte26&show_icons=true&locale=en" alt="aniruddhachitte26" /></p>
