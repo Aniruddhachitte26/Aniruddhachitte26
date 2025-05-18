@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E76A8&height=200&section=header&text=Hi%20There,%20I'm%20Aniruddha%20Chitte%20!&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BCE5F9&height=200&section=header&text=Hi%20There,%20I'm%20Aniruddha%20Chitte%20!&fontSize=35&fontColor=111" />
 </p>
 
 
